@@ -20,6 +20,8 @@ language: it
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Storia del Quindici Maggio in Napoli
 
   con l''esposizione di alcuni fatti che han preparato la catastrofe'
